@@ -25,7 +25,7 @@ Analyze Himalayan expedition data to uncover key trends in:
 
 ## 🗂️ Mount Everest Dashboard – 4-Page Executive Analysis Summary
 
-![Image](https://github.com/user-attachments/assets/390ce580-facc-4779-90ac-4c777d758057)
+![Image](https://github.com/user-attachments/assets/d2243b1d-8600-43de-bf2e-62f221f764fb)
 
 ### 📄 **Page 1: The Ultimate Challenge – Everest Overview**
 
