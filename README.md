@@ -25,6 +25,7 @@ Analyze Himalayan expedition data to uncover key trends in:
 
 ## 🗂️ Mount Everest Dashboard – 4-Page Executive Analysis Summary
 
+![Image](https://github.com/user-attachments/assets/390ce580-facc-4779-90ac-4c777d758057)
 
 ### 📄 **Page 1: The Ultimate Challenge – Everest Overview**
 
@@ -38,7 +39,7 @@ This page gives a high-level summary of expedition activity and outcomes on Moun
 
 📌 *This page sets the foundation with core KPIs, timeline trends, and route/seasonal distribution insights.*
 
-
+![Image](https://github.com/user-attachments/assets/ef44c8de-76e4-4802-badc-5c9b28366617)
 
 ---
 
@@ -54,6 +55,7 @@ This page dives into the people behind the summit attempts—nationality, age, g
 
 📌 *This page humanizes the data, revealing how demographics shape Everest outcomes.*
 
+![Image](https://github.com/user-attachments/assets/d6b2d78e-9dd4-41ee-bbab-2bcdf1ada82e)
 ---
 
 ### 📄 **Page 3: The Price of Glory – Risk Analysis**
@@ -68,6 +70,7 @@ Focused on danger and mortality, this page uncovers the inherent risks of Everes
 
 📌 *This page demonstrates that while Everest is achievable, it comes with extreme life-threatening risks.*
 
+![Image](https://github.com/user-attachments/assets/159e419f-014d-4f5b-96ee-da241a0e3c6b)
 ---
 
 ### 📄 **Page 4: Keys to the Summit – Success Strategies**
@@ -82,7 +85,7 @@ This final page uncovers what contributes to successful Everest summits.
 
 📌 *This page offers actionable insights for future climbers, expedition planners, and policymakers.*
 
-
+![Image](https://github.com/user-attachments/assets/390ce580-facc-4779-90ac-4c777d758057)
 
 ## 🧠 Final Insight
 
