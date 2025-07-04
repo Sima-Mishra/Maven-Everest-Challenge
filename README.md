@@ -3,6 +3,7 @@
 
 This Power BI dashboard analyzes Mount Everest expeditions using the Himalayan Database (1921–2024), uncovering trends in climbing history, climber demographics, risk factors, and success strategies. The report turns raw data into actionable mountaineering insights. This is Part of Maven Analytics Project challenge.
 
+LIVE Dashboard- [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzg4NWJkM2MtYTM3Yy00ODY3LWEzZmMtMWMyMjY2YzJjZmQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## 🎯 Challenge Goal
